@@ -1,21 +1,4 @@
 Guess History:
-Guess 1: 1
-Guess 2: 5
-Guess 3: 6
-Guess 4: 10
-Guess 5: 75
-Guess 6: 5
-Guess 7: 2
-Guess 8: 3
-Guess 9: 4
-Guess 10: 5
-Guess 11: 19
-Guess 12: 30
-Guess 13: 40
-Guess 14: 50
-Guess 15: 60
-Guess 16: 70
-Guess 17: 80
-Guess 18: 75
-Guess 19: 73
-Guess 20: 74
+Guess 1: 5
+Guess 2: 2
+Guess 3: 3
